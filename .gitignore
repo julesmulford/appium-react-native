@@ -1,0 +1,14 @@
+target/
+*.class
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+allure-results/
+allure-report/
+app/*.apk
+*.log
+.DS_Store
