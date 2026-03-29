@@ -1,6 +1,6 @@
 # appium-react-native
 
-Enterprise mobile test automation framework for the **Sauce Labs React Native Demo App** (`com.saucelabs.mydemoapp.rn`), built with Appium 2, Java 21, JUnit 5, and Allure reporting.
+Appium 2 test automation framework for the **Sauce Labs React Native Demo App** (`com.saucelabs.mydemoapp.rn`), built with Java 21, JUnit 5, and Allure reporting.
 
 ---
 

@@ -24,7 +24,7 @@ public final class DriverManager {
                 .setAppActivity(AppiumConfig.getAppId() + ".MainActivity")
                 .setNoReset(false)
                 .setAutoGrantPermissions(true)
-                .setAnimationsEnabled(false);
+                .setDisableWindowAnimation(true);
 
         File appFile = new File(AppiumConfig.getAppPath());
         if (appFile.exists()) {
